@@ -2,8 +2,6 @@
 
 # Sample_Superstore_Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
-
 ## Problem Statement
 
 This dashboard helps the Superstore management understand their sales and profit distribution better. It provides insights into sales performance across different regions, product categories, and customer segments. By analyzing the data, management can identify areas of improvement and make data-driven decisions to enhance their strategies.
