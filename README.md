@@ -1,10 +1,4 @@
-
-
 # Sample_Superstore_Dashboard
-
-# Snapshot of Dashboard (Power BI Service)
-
-![dashboard](https://github.com/user-attachments/assets/4b4b7d6d-703c-4f4d-b6d2-6ff53b2cfbc5)
 
 ## Problem Statement
 
@@ -69,3 +63,6 @@ Central: $40K (14%)
     Added slicers for filtering data by dimensions like Region, Segment, and Category.
 - ### Publishing:
     Published the report to Power BI Service for accessibility and sharing.
+  
+## Snapshot of Dashboard (Power BI Service)
+![dashboard](https://github.com/user-attachments/assets/4b4b7d6d-703c-4f4d-b6d2-6ff53b2cfbc5)
